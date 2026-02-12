@@ -56,13 +56,13 @@ The system integrates hardware sensors with cloud-based data storage and a user-
 ### Screenshots
 
 ### Dashboard
-<img src="screenshots/dashboard.png" width="500"/>
+<img src="screenshots/Dashboard.jpeg" width="500"/>
 
 ### Sensor Data
-<img src="screenshots/sensor_readings.png" width="500"/>
+<img src="screenshots/Pump_control_ON.jpeg" width="500"/>
 
 ### Pump Control
-<img src="screenshots/pump_control.png" width="500"/>
+<img src="screenshots/Light_mode.jpeg" width="500"/>
 
 ---
 
