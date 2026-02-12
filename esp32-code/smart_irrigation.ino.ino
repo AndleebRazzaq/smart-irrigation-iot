@@ -8,7 +8,7 @@ const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 
 #define FIREBASE_HOST "smart-irrigation-aab58-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "RDkNQXPaDP8JbeFqFYDUE1w4XaQt7rUOCOxhPpBM"
+#define FIREBASE_AUTH "your API key"
 
 #define DHTPIN 15
 #define DHTTYPE DHT11
