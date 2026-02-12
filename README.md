@@ -2,7 +2,7 @@
 
 An IoT-based intelligent irrigation system that monitors environmental conditions in real-time and automates water management using ESP32, sensors, Firebase, and a Flutter mobile application.
 
-## 🚀 Project Overview
+## Project Overview
 
 Water scarcity and inefficient irrigation are major agricultural challenges. This project implements a smart irrigation system that:
 
@@ -15,7 +15,7 @@ Water scarcity and inefficient irrigation are major agricultural challenges. Thi
 The system integrates hardware sensors with cloud-based data storage and a user-friendly Flutter dashboard.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Hardware
 - ESP32
@@ -33,7 +33,7 @@ The system integrates hardware sensors with cloud-based data storage and a user-
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
 
 1. Sensors collect environmental data.
 2. ESP32 processes data.
@@ -43,7 +43,7 @@ The system integrates hardware sensors with cloud-based data storage and a user-
 
 ---
 
-## 📱 Mobile Application Features
+## Mobile Application Features
 
 - Live sensor readings
 - Pump ON/OFF control
@@ -66,7 +66,7 @@ The system integrates hardware sensors with cloud-based data storage and a user-
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 - Real-time IoT monitoring
 - Cloud integration
@@ -75,13 +75,13 @@ The system integrates hardware sensors with cloud-based data storage and a user-
 - Low-cost hardware implementation
 
 ---
-## 🌍 Impact
+## Impact
 
 This system promotes efficient water usage and sustainable agriculture by automating irrigation based on real environmental data.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Andleeb Razzaq**  
 AI & Flutter Developer  
