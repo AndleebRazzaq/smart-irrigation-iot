@@ -4,8 +4,8 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-#define WIFI_SSID "Andleeb"
-#define WIFI_PASSWORD "00000"
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
 
 #define FIREBASE_HOST "smart-irrigation-aab58-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "RDkNQXPaDP8JbeFqFYDUE1w4XaQt7rUOCOxhPpBM"
