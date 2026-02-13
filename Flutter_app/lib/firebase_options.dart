@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAz4NvL-YGKnmdGlBBmSFF5VWtKLiXlu0c',
-    appId: '1:83497899396:android:c89ba80bff647d9b26f9d1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '83497899396',
     projectId: 'irrigation-app-7bc71',
     storageBucket: 'irrigation-app-7bc71.firebasestorage.app',
